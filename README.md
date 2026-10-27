@@ -16,7 +16,7 @@ This project is part of Task 1 of the SWYNEX Technologies internship. The goal i
 This dataset contains RNA-seq data from breast cancer cell lines, primary breast cancer tumors, and uninvolved breast tissue samples. It provides information that can be used to investigate gene expression patterns associated with breast cancer.
 
 ## 4. Research Question
-How do gene expression patterns differ between triple-negative breast cancer (TNBC) and estrogen receptor-positive, HER2-negative breast cancer?
+How do gene expression patterns differ between primary triple-negative breast cancer (TNBC) tumors and primary estrogen receptor-positive (ER+), HER2-negative breast cancer tumors?
 
 ## 5. Reason for Selection
 This dataset was selected because it contains publicly available human RNA-seq data relevant to cancer genomics. It provides an opportunity to explore gene expression differences between breast cancer subtypes and understand how biological datasets can support research questions.
